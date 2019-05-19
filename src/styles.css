@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.reasonVoteContainer {
+  display: flex;
+  justify-content: center;
+  border: black;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.reasonVoteItem {
+  display: flex;
+  flex-flow: column;
+}
+
+.reasonVoteButton {
+}
+
+.reasonVoteList {
+  display: flex;
+  flex-flow: column;
+}
